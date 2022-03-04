@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,4 +28,35 @@
         <div class="square noeasy" onclick="validation(5)" id="6"></div>
     </div>
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
+    <title>Jogo das Cores</title>
+</head>
+<body onload="newColors()">
+    <div class="header" style="background-color: dodgerblue;">
+        <h2>O JOGO</h2>
+        <span id="RGB">RGB( )</span> 
+        <h2>guessing game</h2>
+    </div>
+    <div class="menu">
+        <button onclick="newColors()">NEW COLORS</button><span id="messager"></span><button onclick="modeOne()">EASY</button><button onclick="modeTwo()">HARD</button>
+    </div>
+    <div class="game">
+        <div class="square" onclick="validation(0)" id="1"></div>
+        <div class="square" onclick="validation(1)" id="2"></div>
+        <div class="square" onclick="validation(2)" id="3"></div>
+        <div class="square noeasy" onclick="validation(3)" id="4"></div>
+        <div class="square noeasy" onclick="validation(4)" id="5"></div>
+        <div class="square noeasy" onclick="validation(5)" id="6"></div>
+    </div>
+</body>
+>>>>>>> e9102a1de94e0189ca143e019b5f9d061fdf7537
 </html>
