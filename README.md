@@ -1,5 +1,6 @@
 # RGB Game
 Jogo das cores feito em JavaScript
+Link: https://marcelovieiradesousa.github.io/rgb-game/
 
 ## Preview
 @[youtube](https://youtu.be/SyV1zKAJ0rI)
