@@ -1,8 +1,8 @@
 # RGB Game
 Jogo das cores feito em JavaScript <br/>
-**Jogo: **https://filtlink.com/p?i=85thEEi
+**Jogo:**https://filtlink.com/p?i=85thEEi
 
-**Link de Ref: ** https://filtlink.com/index.php?code=85thEEi
+**Link de Ref:** https://filtlink.com/index.php?code=85thEEi
 
 ## Preview
 @[youtube](https://youtu.be/SyV1zKAJ0rI)
